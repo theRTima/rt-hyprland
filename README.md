@@ -1,0 +1,2 @@
+# rt-hyprland
+Hyprland dotfiles.
